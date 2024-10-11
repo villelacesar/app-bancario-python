@@ -53,4 +53,3 @@ while(True):
         break
     else:
         print("Operação inválida! Por favor, informe uma opção válida.")
-        
